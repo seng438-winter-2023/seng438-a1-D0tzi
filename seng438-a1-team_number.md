@@ -34,7 +34,7 @@ The exploratory testing phase allowed for a large degree of freedom when running
 
 # Notes and discussion of the peer reviews of defect reports
 
-The manual testing from both pairs produced the exact same results, on both version 1.0 and 1.1. However the exploratory testing was useful in catching unique bugs, as each pair had the opportunity to traverse the system in their own way. After going through regression testing on version 1.1, it was found that while many of issues discovered during exploratory testing were resolved, most of the manual test cases remained active. 
+The manual testing from both pairs produced the exact same results, on both version 1.0 and 1.1. However the exploratory testing was useful in catching unique bugs, as each pair had the opportunity to traverse the system in their own way. After going through regression testing on version 1.1, it was found that while many of issues discovered during exploratory testing were resolved, most of the manual test cases remained active. When we peer reviewed each others results, we found that our report style was a bit different, so we made sure to agree on a standard, and compromised to a certain type of writing.
 
 # How the pair testing was managed and team work/effort was divided 
 
