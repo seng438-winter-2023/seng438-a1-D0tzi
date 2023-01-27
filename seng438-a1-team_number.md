@@ -9,28 +9,6 @@
 | Student 3 name: Jack Rovere |   
 | Student 4 name: Ben Leggett |   
 
-
-**Table of Contents**
-
-(When you finish writing, update the following list using right click, then
-“Update Field”)
-
-[1 Introduction	1](#_Toc439194677)
-
-[2 High-level description of the exploratory testing plan	1](#_Toc439194678)
-
-[3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
-
-[4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
-
-[5 How the pair testing was managed and team work/effort was
-divided	1](#_Toc439194681)
-
-[6 Difficulties encountered, challenges overcome, and lessons
-learned	1](#_Toc439194682)
-
-[7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
-
 # Introduction
 
 Prior to this lab, the group members had previous experience with unit testing; using JUnit 4 in a recent course. Jack Rovere had the most experience with testing, as he previously worked as a Software Quality Intern at Garmin. Jack's responsiblilities included python scripting, manual testing; and regression testing Garmin products. The rest of the group has had experience with exploratory testing when working on previous projects, but have not had any experience regression testing and very limited experience with manual testing. 
